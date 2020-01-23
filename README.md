@@ -6,7 +6,7 @@
 ### [Opencv capture streaming IP camera](https://stackoverflow.com/questions/49978705/access-ip-camera-in-python-opencv)
 
 ## Deep Stream 4.0.1 SDK x86/64 Webcam USB sample
-1. Installation file deepstream_sdk_v4.0.1_x86_64.tbz2 https://developer.nvidia.com/deepstream-download
+1. Installation file deepstream_sdk_v4.0.1_x86_64.tbz2 https://developer.nvidia.com/deepstream-download   https://docs.nvidia.com/metropolis/index.html
 
 2. $ cd ~/deepstream_sdk_v4.0.1_x86_64/samples/configs/deepstream-app
 
