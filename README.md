@@ -5,7 +5,7 @@
 ### [GStreamer : Opensource Multimedia Freamework](https://gstreamer.freedesktop.org/)
 ### [Opencv capture streaming IP camera](https://stackoverflow.com/questions/49978705/access-ip-camera-in-python-opencv)
 
-### Deep Stream 4.0.1 SDK x86/64 Webcam USB sample
-#   Installation file deepstream_sdk_v4.0.1_x86_64.tbz2
+# Deep Stream 4.0.1 SDK x86/64 Webcam USB sample
+###Installation file deepstream_sdk_v4.0.1_x86_64.tbz2
 $ cd ~/deepstream_sdk_v4.0.1_x86_64/samples/configs/deepstream-app
 $ deepstream-app -c source1_usb_dec_infer_resnet_int8.txt
